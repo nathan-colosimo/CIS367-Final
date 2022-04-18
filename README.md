@@ -1,1 +1,3 @@
-# CIS367-Final
+# Computer Graphics Final
+# Fire Animation
+
