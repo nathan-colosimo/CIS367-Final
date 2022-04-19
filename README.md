@@ -1,4 +1,4 @@
-# Computer Graphics Final
+# Computer Graphics Final Project
 Grand Valley State University
 
 CIS367 01
